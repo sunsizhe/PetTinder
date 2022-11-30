@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686319598102",
+    "project_id": "pettinder-608e1",
+    "storage_bucket": "pettinder-608e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686319598102:android:0b1073b7dc0f6419c11337",
+        "android_client_info": {
+          "package_name": "edu.northeastern.pettinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686319598102-j1l2ql9turd1g4c27vnnii15ecpb4t5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrT0QzZA1bFH7mq3Hns_pwuVIblFji7pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686319598102-j1l2ql9turd1g4c27vnnii15ecpb4t5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
