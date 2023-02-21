@@ -1,0 +1,105 @@
+.wd-box{
+    border: solid thin;
+    border-color: rgb(47, 51, 54);
+
+}
+
+.wd-topic{
+    color: white;
+    font-size: 20px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    padding-top: 12px;
+}
+.wd-handle{
+    color: lightgray;
+    font-size: 13px;
+    padding-left: 16px;
+    padding-bottom: 16px;
+}
+
+.wd-headImg{
+    margin-top: 12px;
+    margin-left: 16px;
+    float: left;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.wd-name{
+    padding-left: 16px;
+    padding-top: 12px;
+    float: left;
+    color:white;
+    font-size: 15px;
+}
+
+.wd-name-handle{
+    color: lightgray;
+    padding-left: 5px;
+    padding-top: 12px;
+    font-size: 15px;
+    float: left;
+}
+
+.wd-float-left{
+    float: left;
+}
+
+.wd-float-done{
+    clear: both;
+}
+
+.wd-content{
+    color: white;
+    font-size: 15px;
+    max-width: 506px;
+    padding-left: 12px;
+    padding-right: 16px;
+    padding-bottom: 12px;
+    clear: left;
+
+}
+
+.wd-box-small{
+    border: solid thin;
+    border-color: lightgray;
+    border-radius: 10px;
+    width: 504px;
+    margin-left: 12px;
+    margin-bottom: 12px;
+    float: left;
+
+}
+
+.wd-postImg{
+    width: 504px;
+    height: 264px;
+}
+
+.wd-bar{
+    border: thin solid;
+    border-color: rgb(47, 51, 54);
+    width: 99%;
+    margin-bottom: 12px;
+}
+
+.wd-title{
+    color: white;
+    font-size: 15px;
+    padding-left: 12px;
+
+}
+
+.wd-post-content{
+    color: lightgray;
+    font-size: 15px;
+    padding-left: 12px;
+    padding-right: 12px;
+
+}
+
+body{
+    background-color: black;
+}

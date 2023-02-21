@@ -1,0 +1,114 @@
+input#id-selector-1 {
+    background-color: whitesmoke;
+    color: white;
+    border-radius: 50px;
+    font-size:18pt;
+    height:35px;
+    width:85%;
+    border:0;
+}
+
+.wd-rounded-corners-all-around{
+    border-radius: 10px;
+}
+
+.wd-fg-color-white{
+    color: rgb(110,118,125);
+}
+
+.wd-bg-color-black{
+    background-color: black;
+}
+
+.wd-highlight{
+    color: rgb(29,161,242);
+}
+
+.wd-link{
+    font-size: 15px;
+}
+
+.wd-float-left{
+    float: left;
+}
+
+.wd-float-right{
+    float: right;
+}
+
+.wd-pos-absolute-12{
+    position: absolute;
+    right: 12px;
+}
+
+.wd-pos-absolute-right-16{
+    position: absolute;
+    right: 16px;
+}
+
+.wd-pos-absolute-16{
+    position: absolute;
+    left: 16px;
+}
+
+.wd-pos-relative{
+    position: relative;
+}
+
+.wd-grid-row{
+    clear: both;
+}
+
+.wd-grid-col-fifth-page{
+    width: 16%;
+    float: left;
+}
+
+.wd-padding-fat{
+    padding: 30px;
+}
+
+.wd-topic{
+    font-size: 13px;
+    color: black;
+}
+
+.wd-title{
+    font-size: 17px;
+    color: black;
+}
+
+.wd-author{
+    font-size: 13px;
+    color: black;
+}
+
+.wd-relative{
+    position: relative;
+}
+
+.wd-border-solid{
+    border: thin solid rgb(47,51,54);
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+
+@media (max-width: 543px) {
+    .mydivs {
+        height: 2%;
+    }
+}
+
+.btn{
+    border-radius: 24px;
+    width: 100%;
+}
+
+.wd-underline{
+    padding-bottom: 8px;
+    border-bottom: solid 4px lightskyblue;
+}
+
+
+
